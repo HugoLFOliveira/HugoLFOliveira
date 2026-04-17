@@ -1,7 +1,7 @@
 # Ola! Eu sou o Hugo 👋
 
 
-Trabalho com análise de dados à 7 anos e esse é um repositório dos meus projetos.
+Sou analista de dados à 7 anos e esse é um repositório dos meus projetos.
 
 Aqui estão minhas informações:
 
