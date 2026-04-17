@@ -1,7 +1,7 @@
 # Ola! Eu sou o Hugo 👋
 
 
-Sou analista de dados à 7 anos e esse é um repositório dos meus projetos.
+## Sou analista de dados à 7 anos e esse é um repositório dos meus projetos.
 
 Aqui estão minhas informações:
 
@@ -9,7 +9,7 @@ Aqui estão minhas informações:
 - 🌱 Eu estou aprendendo atualmente SQL Server mais profundamente...
 - 👯 Eu trabalho em uma equipe de 9 pessoas...
 ---
-As tecnologias que eu trabalho atualmente são:
+## As tecnologias que eu trabalho atualmente são:
 - **SQL Server**
 - **Power BI**
 - **Pentaho**
